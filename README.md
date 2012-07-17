@@ -17,14 +17,14 @@ lb = LogBackup.new ({
 1. Instalar ruby (instalador [aquí](http://rubyinstaller.org/))
 2. Instalar las gemas necesarias
 
-      gem install fileutils
+<code>gem install fileutils</code>
 
-      gem install activesupport
+<code>gem install activesupport</code>
 
 ### Instalación
 
 1. Solamente clona el repo =)
 
-      git clone git@github.com:MachinesAreUs/logbackup.git
+<code>git clone git@github.com:MachinesAreUs/logbackup.git</code>
 
   
