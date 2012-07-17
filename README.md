@@ -18,6 +18,7 @@ lb = LogBackup.new ({
 2. Instalar las gemas necesarias
 
 <code>> gem install fileutils</code>
+
 <code>> gem install activesupport</code>
 
 
