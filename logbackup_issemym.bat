@@ -1,1 +1,0 @@
-ruby logbackup_issemym.rb

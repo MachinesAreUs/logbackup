@@ -6,11 +6,12 @@
 * Las unidades y sus direcciones deben configurarse en logbackup_issemym.rb
   Agregando entradas al diccionario con el que se inicia la aplicación:
 
-     lb = LogBackup.new ({
-       :SitioA   => '192.168.0.1',
-       :SitioB => '192.168.0.2'
-     })
-
+<code>
+lb = LogBackup.new ({
+  :SitioA   => '192.168.0.1',
+  :SitioB => '192.168.0.2'
+})
+</code>
 ### Instalación Prerequisitos
 
 1. Instalar ruby (instalador en `\\192.168.137.101\Todos\Utilidades\Ruby`)
