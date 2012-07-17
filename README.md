@@ -1,9 +1,9 @@
 ### Uso básico
 
-<code>> logbackup_issemym.bat</code>
+<code>> logbackup_mysite.bat</code>
 
-* Por default, la herramienta genera un log llamado `.\LogBackup.log`.
-* Las unidades y sus direcciones deben configurarse en logbackup_mysite.rb
+* Por default, la herramienta genera un log llamado `LogBackup.log`.
+* Las unidades y sus direcciones deben configurarse en `logbackup_mysite.rb`
   Agregando entradas al diccionario con el que se inicia la aplicación:
 
 <code>
