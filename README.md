@@ -8,8 +8,8 @@
 
 <code>
 lb = LogBackup.new ({
-  :SitioA   => '192.168.0.1',
-  :SitioB => '192.168.0.2'
+  :SiteA => '192.168.0.1',
+  :SiteB => '192.168.0.2'
 })
 </code>
 ### Instalación Prerequisitos
