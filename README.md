@@ -1,6 +1,6 @@
 ### Uso básico
 
-    > logbackup_issemym.bat
+<code>> logbackup_issemym.bat</code>
 
 * Por default, la herramienta genera un log llamado `.\LogBackup.log`.
 * Las unidades y sus direcciones deben configurarse en logbackup_issemym.rb
@@ -10,14 +10,14 @@
 lb = LogBackup.new ({
   :SitioA   => '192.168.0.1',
   :SitioB => '192.168.0.2'
-})
-</code>
+})</code>
+
 ### Instalación Prerequisitos
 
 1. Instalar ruby (instalador en `\\192.168.137.101\Todos\Utilidades\Ruby`)
 2. Instalar las gemas necesarias
-
-    > gem install fileutils
-    > gem install activesupport
+<code>
+> gem install fileutils
+> gem install activesupport</code>
 
 
