@@ -12,13 +12,19 @@ lb = LogBackup.new ({
   :SitioB => '192.168.0.2'
 })</code>
 
-### Instalación Prerequisitos
+### Prerequisitos
 
 1. Instalar ruby (instalador [aquí](http://rubyinstaller.org/))
 2. Instalar las gemas necesarias
 
-<code>> gem install fileutils</code>
+    gem install fileutils
 
-<code>> gem install activesupport</code>
+    gem install activesupport
 
+### Instalación
 
+1. Solamente clona el repo =)
+
+    git clone git@github.com:MachinesAreUs/logbackup.git
+
+  
