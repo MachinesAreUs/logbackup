@@ -17,7 +17,7 @@ lb = LogBackup.new ({
 1. Instalar ruby (instalador [aquí](http://rubyinstaller.org/))
 2. Instalar las gemas necesarias
 
-<code>gem install fileutils</code>
+<code>gem install file-utils -v 0.1.0</code>
 
 <code>gem install activesupport</code>
 
